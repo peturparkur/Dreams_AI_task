@@ -59,7 +59,7 @@ public class InputManager : MonoBehaviour
         can_hit = true;
         end = false;
         sent_data = false;
-        UploadManager = new DbManager("http://magicmotiongames.com/wp-content/uploads/2021/Dreams_AI/Builds/SendData.php");
+        UploadManager = new DbManager("http://website.com/SendData.php"); //was changed for personal information
         game_id = NewGameId(); //the identifier of the game
         //if everything is good, we could identify each game by the time and initial state
         //id_text.text = game_id.ToString();
