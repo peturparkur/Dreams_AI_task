@@ -3,8 +3,10 @@ interview_task
 
 Created a simple interactive webGL prototype of the task with modifiable grid dimensions and hit pattern.
 Can be tried on: http://magicmotiongames.com/peter/
+
 Goal: Make all the points blue!
 Red means up, Blue means down.
+
 Controls:
     Click where you want to hit
     Press Esc to open main menu and start a new game or reset the current board
