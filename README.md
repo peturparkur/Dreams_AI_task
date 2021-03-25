@@ -35,7 +35,7 @@ For leading a project with the goal of making an AI system that can optimise the
 	2. Create the game environment suitable for both machine learning and human player usage (used for later in data collection and testing)
 	3. Create variations of AI systems for testing
 	4. Train AI, to see what architectures work and if any assumptions made previously are violated or are wrong
-	5. Collect data with the environment created in (1.) to see human player behaviour.
+	5. Collect data with the environment created in (2.) to see human player behaviour.
 	6. Compare the performance of human players and AI with available pool of players.
 	7. Formalise assumptions and goal for the new problem of making AI better than human players
 	8. Review the systems
