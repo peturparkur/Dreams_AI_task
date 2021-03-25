@@ -32,10 +32,11 @@ With some extra time the probabilistic hitting could be added.
 For leading a project with the goal of making an AI system that can optimise the moves for this game. I would do the following plan:
 
 	1. Formalise assumptions and goals of the AI and game environment
-	2. Create the game environment suitable for both machine learning and human player usage (used for later in data collection and testing)
-	3. Create variations of AI systems for testing
-	4. Train AI, to see what architectures work and if any assumptions made previously are violated or are wrong
-	5. Collect data with the environment created in (2.) to see human player behaviour.
-	6. Compare the performance of human players and AI with available pool of players.
-	7. Formalise assumptions and goal for the new problem of making AI better than human players
-	8. Review the systems
+	2. Mathematically see if there's a solution or minimiser to the problem
+	3. Create the game environment suitable for both machine learning and human player usage (used for later in data collection and testing)
+	4. Create variations of AI systems for testing
+	5. Train AI, to see what architectures work and if any assumptions made previously are violated or are wrong
+	6. Collect data with the environment created in (2.) to see human player behaviour.
+	7. Compare the performance of human players and AI with available pool of players.
+	8. Formalise assumptions and goal for the new problem of making AI better than human players
+	9. Review the systems
