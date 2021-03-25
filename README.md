@@ -19,3 +19,5 @@ I've setup the project so that it could collect play data if the website host ac
 
 The system could be extended to not just send data to the database, but be able to read it and play the moves at at a certain frequency to visualise the moves.
 Using the current visualisation, a custom entered initial state could be added and other ways of generating the randomised state.
+
+With some extra time the probabilistic hitting could be added.
